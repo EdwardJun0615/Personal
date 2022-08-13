@@ -1,0 +1,17 @@
+C:\Users\edwar\source\repos\World Clock\World Clock\bin\Debug\net6.0-windows\World Clock.exe
+C:\Users\edwar\source\repos\World Clock\World Clock\bin\Debug\net6.0-windows\World Clock.deps.json
+C:\Users\edwar\source\repos\World Clock\World Clock\bin\Debug\net6.0-windows\World Clock.runtimeconfig.json
+C:\Users\edwar\source\repos\World Clock\World Clock\bin\Debug\net6.0-windows\World Clock.dll
+C:\Users\edwar\source\repos\World Clock\World Clock\bin\Debug\net6.0-windows\World Clock.pdb
+C:\Users\edwar\source\repos\World Clock\World Clock\obj\Debug\net6.0-windows\World Clock.csproj.AssemblyReference.cache
+C:\Users\edwar\source\repos\World Clock\World Clock\obj\Debug\net6.0-windows\World_Clock.Form1.resources
+C:\Users\edwar\source\repos\World Clock\World Clock\obj\Debug\net6.0-windows\World Clock.csproj.GenerateResource.cache
+C:\Users\edwar\source\repos\World Clock\World Clock\obj\Debug\net6.0-windows\World Clock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwar\source\repos\World Clock\World Clock\obj\Debug\net6.0-windows\World Clock.AssemblyInfoInputs.cache
+C:\Users\edwar\source\repos\World Clock\World Clock\obj\Debug\net6.0-windows\World Clock.AssemblyInfo.cs
+C:\Users\edwar\source\repos\World Clock\World Clock\obj\Debug\net6.0-windows\World Clock.csproj.CoreCompileInputs.cache
+C:\Users\edwar\source\repos\World Clock\World Clock\obj\Debug\net6.0-windows\World Clock.dll
+C:\Users\edwar\source\repos\World Clock\World Clock\obj\Debug\net6.0-windows\refint\World Clock.dll
+C:\Users\edwar\source\repos\World Clock\World Clock\obj\Debug\net6.0-windows\World Clock.pdb
+C:\Users\edwar\source\repos\World Clock\World Clock\obj\Debug\net6.0-windows\World Clock.genruntimeconfig.cache
+C:\Users\edwar\source\repos\World Clock\World Clock\obj\Debug\net6.0-windows\ref\World Clock.dll
